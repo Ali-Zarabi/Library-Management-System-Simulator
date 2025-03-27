@@ -13,6 +13,6 @@ This folder is comprised of a Java program simulating a library management syste
 **To run the program:**
 * Ensure all files are downloaded and in the same directory
 * Open the folder in the IDE of your choosing
-* Run the main file and enjoy !
+* Run the "ProjectOneTester" file and enjoy !
 
 
